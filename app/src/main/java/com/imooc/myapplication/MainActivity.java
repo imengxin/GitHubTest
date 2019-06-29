@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void test(){
         String master="";
+        String v1="";
     }
 }
