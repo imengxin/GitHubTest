@@ -10,5 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //这里是我的为了测试branch和 pull request，才加的注释，表示已经修改了代码
     }
 }
