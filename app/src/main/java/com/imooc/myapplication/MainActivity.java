@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         //这里是我的为了测试branch和 pull request，才加的注释，表示已经修改了代码
     }
 
-    public void test(){
+    public void testV1(){
 
     }
 }
